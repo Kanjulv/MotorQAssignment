@@ -31,3 +31,5 @@ Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB
 Mapping/Location Services: [Include any services used, e.g., Google Maps API]
+
+NOTE - Dashboard Redirection Issue: The dashboard functionality has a known issue where it keeps redirecting, causing an unstable user experience. This issue is under investigation and will be resolved in future updates.
